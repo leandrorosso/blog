@@ -1,5 +1,5 @@
 pt-BR:
- activerecord:
+  activerecord:
     models:
       post: 'Post'
       comment: 'Comentário'
@@ -10,5 +10,5 @@ pt-BR:
         author: 'Autor'
         body: 'Post'
       comment:
-         author: 'Autor'
-          body: 'Comentário'
+        author: 'Autor'
+        body: 'Comentário'
